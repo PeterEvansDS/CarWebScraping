@@ -10,8 +10,6 @@ Sale’s title, Distance, Price in GBP, Registration Year etc.
 - Determine the most popular car sales based on Body Type
 - List top 10 cars with highest numbers of reviews.
 
-Report written on the outcomes of the project can also be found in the repo.
-
 **NOTE**: clean.py is specific to the dataset originally scraped, cars1.csv. Any newly scraped data will require its own exploration and cleaning.
 
 ![alt text](https://github.com/PeterEvansDS/CarWebScraping/blob/main/theaa.png?raw=true)
