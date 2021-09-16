@@ -12,4 +12,6 @@ Sale’s title, Distance, Price in GBP, Registration Year etc.
 
 Report written on the outcomes of the project can also be found in the repo.
 
+**NOTE**: clean.py is specific to the dataset originally scraped, cars.csv. Any newly scraped data will require its own exploration and cleaning.
+
 ![alt text](https://github.com/PeterEvansDS/CarWebScraping/blob/main/theaa.png?raw=true)
